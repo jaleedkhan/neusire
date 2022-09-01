@@ -1,0 +1,5 @@
+digraph G {
+	0 [label=building fillcolor=black fontcolor=white shape=rect style=filled]
+	1 [label=door fillcolor=black fontcolor=white shape=rect style=filled]
+	0 -> 1 [label=has]
+}
