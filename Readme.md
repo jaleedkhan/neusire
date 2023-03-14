@@ -8,11 +8,12 @@ Downloads:
 - Image Generation Pretrained Network https://github.com/google/sg2im
 
 Code:
-- Scene Graph Generation on dataset: SGG/SGG_Evaluation.ipynb 
+- [Scene Graph Generation evaluation on VG/COCO dataset](SGG/SGG_Evaluation.ipynb)
+- Scene Graph Generation evaluation on VG/COCO dataset: SGG/SGG_Evaluation.ipynb https://github.com/jaleedkhan/neusire/blob/main/SGG/SGG_Evaluation.ipynb
 - Scene Graph Enrichment using CSKG with evaluation: CSKG/j_SG_CSKG.ipynb
-- Image Captioning on dataset: SubGC/SubGC.ipynb 
+- Image Captioning using COCO dataset: SubGC/SubGC.ipynb 
 - Image Captioning evaluation: SubGC/SubGC_evaluation.ipynb
-- Image Generation on dataset: SG2IM/SG2IM.ipynb
+- Image Generation using VG dataset: SG2IM/SG2IM.ipynb
 
 Directories (VG):
 - Generated scene graphs of all images (in Eval_IO/vg/0_images) in the dataset are saved to Eval_IO/vg/1_pred_scene_graphs
