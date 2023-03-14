@@ -13,10 +13,8 @@
 - [Scene Graph Generation evaluation on VG/COCO dataset](SGG/SGG_Evaluation.ipynb)
 - [Scene Graph Enrichment using CSKG with evaluation](CSKG/j_SG_CSKG.ipynb)
 ### Downstream Tasks
-Image Captioning:
 - [Image Captioning using COCO dataset](SubGC/SubGC.ipynb) 
 - [Image Captioning evaluation](SubGC/SubGC_evaluation.ipynb)
-Image Generation:
 - [Image Generation using VG dataset](SG2IM/SG2IM.ipynb)
 
 ## Important Directories
