@@ -1,4 +1,7 @@
 # NeuSyRE: A Neuro-Symbolic Visual Understanding and Reasoning Framework based on Scene Graph Enrichment
+
+![SWJ-BlockDiagram](https://user-images.githubusercontent.com/71158275/226135008-08114a1d-da4d-4e24-bd00-a0583d8eaab9.jpg)
+
 ## Downloads
 - [VG dataset](https://visualgenome.org/api/v0/api_home.html)
 - [CSKG embeddings](https://drive.google.com/drive/u/1/folders/16347KHSloJJZIbgC9V5gH7_pRx0CzjPQ)
