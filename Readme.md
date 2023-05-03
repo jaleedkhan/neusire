@@ -29,3 +29,26 @@
 - Generated scene graphs of all images (in Eval_IO/coco/0_images) in the dataset are saved to Eval_IO/coco/1_pred_scene_graphs
 - Enriched scene graphs are saved to Eval_IO/coco/2_enriched_scene_graphs
 - Generated captions are saved to Eval_IO/coco/3_captions
+
+## Citations
+```
+@inproceedings{khan2022expressive,
+  title={Expressive Scene Graph Generation Using Commonsense Knowledge Infusion for Visual Understanding and Reasoning},
+  author={Khan, Muhammad Jaleed and Breslin, John G and Curry, Edward},
+  booktitle={The Semantic Web: 19th International Conference, ESWC 2022, Hersonissos, Crete, Greece, May 29--June 2, 2022, Proceedings},
+  pages={93--112},
+  year={2022},
+  organization={Springer}
+}
+
+@article{khan2022common,
+  title={Common Sense Knowledge Infusion for Visual Understanding and Reasoning: Approaches, Challenges, and Applications},
+  author={Khan, Muhammad Jaleed and Breslin, John G and Curry, Edward},
+  journal={IEEE Internet Computing},
+  volume={26},
+  number={4},
+  pages={21--27},
+  year={2022},
+  publisher={IEEE}
+}
+```
