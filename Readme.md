@@ -30,6 +30,7 @@
 - Enriched scene graphs are saved to Eval_IO/coco/2_enriched_scene_graphs
 - Generated captions are saved to Eval_IO/coco/3_captions
 
+<!---
 ## Citations
 ```
 @inproceedings{khan2022expressive,
@@ -52,3 +53,4 @@
   publisher={IEEE}
 }
 ```
+--->
