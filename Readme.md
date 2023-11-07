@@ -49,9 +49,15 @@
 - Run all cells step-by-step in [SubGC/SubGC_Evaluation.ipynb](SubGC/SubGC_Evaluation.ipynb) to run the trained image captioning module on scene graphs and enriched scene graphs generated in the previous steps, and calculate the evaluation metrics.
 - Change the paths to datasets and other resources in the code to your local paths where needed.
 
-<!---
 ## Citations
 ```
+@article{khan2023neusyre,
+  title={NeuSyRE: Neuro-Symbolic Visual Understanding and Reasoning Framework based on Scene Graph Enrichment},
+  author={Khan, Muhammad Jaleed and Breslin, John G and Curry, Edward},
+  journal={Semantic Web},
+  year={2022}
+}
+
 @inproceedings{khan2022expressive,
   title={Expressive Scene Graph Generation Using Commonsense Knowledge Infusion for Visual Understanding and Reasoning},
   author={Khan, Muhammad Jaleed and Breslin, John G and Curry, Edward},
@@ -71,5 +77,5 @@
   year={2022},
   publisher={IEEE}
 }
+
 ```
---->
