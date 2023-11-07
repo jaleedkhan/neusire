@@ -55,7 +55,7 @@
   title={NeuSyRE: Neuro-Symbolic Visual Understanding and Reasoning Framework based on Scene Graph Enrichment},
   author={Khan, Muhammad Jaleed and Breslin, John G and Curry, Edward},
   journal={Semantic Web},
-  year={2022}
+  year={2023}
 }
 
 @inproceedings{khan2022expressive,
