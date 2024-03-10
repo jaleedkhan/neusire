@@ -1,5 +1,9 @@
 # NeuSyRE: A Neuro-Symbolic Visual Understanding and Reasoning Framework based on Scene Graph Enrichment
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/neusyre-neuro-symbolic-visual-understanding/image-captioning-on-ms-coco)](https://paperswithcode.com/sota/image-captioning-on-ms-coco?p=neusyre-neuro-symbolic-visual-understanding)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/neusyre-neuro-symbolic-visual-understanding/scene-graph-generation-on-ms-coco)](https://paperswithcode.com/sota/scene-graph-generation-on-ms-coco?p=neusyre-neuro-symbolic-visual-understanding)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/neusyre-neuro-symbolic-visual-understanding/scene-graph-generation-on-visual-genome)](https://paperswithcode.com/sota/scene-graph-generation-on-visual-genome?p=neusyre-neuro-symbolic-visual-understanding)
+
 ![SWJ-BlockDiagram](https://user-images.githubusercontent.com/71158275/226135008-08114a1d-da4d-4e24-bd00-a0583d8eaab9.jpg)
 
 ## Requirements
